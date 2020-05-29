@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884299588091",
+    "firebase_url": "https://frndszone-f713d.firebaseio.com",
+    "project_id": "frndszone-f713d",
+    "storage_bucket": "frndszone-f713d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884299588091:android:355c1af975cd39f20deb5e",
+        "android_client_info": {
+          "package_name": "com.example.frndszone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884299588091-ui62jp8q101cjslamerobsmsrvl03rho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1eBOxM5UWw1eXrxbjq82rMkhKreS-W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884299588091-ui62jp8q101cjslamerobsmsrvl03rho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
